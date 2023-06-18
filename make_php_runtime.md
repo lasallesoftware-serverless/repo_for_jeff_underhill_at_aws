@@ -1,11 +1,9 @@
 # Bash file to create and upload compiled PHP using PHP's source repo
----
 
-- set-up and run PHP from Lambda in console
-- use AWS sample bootstrap file
+Need to:
+- create EC2 instance
 - use AL2 on EC2
 - assume that IAM is set up
-- create EC2 instance
 - ssh into EC2 instance
 
 ```bash
