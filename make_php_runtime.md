@@ -1,4 +1,4 @@
-AWS REGIONS: EC2 + Lambda Layers/Functions in the **same** AWS region
+# Bash file to create and upload compiled PHP using PHP's source repo
 ---
 
 - set-up and run PHP from Lambda in console
