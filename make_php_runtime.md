@@ -98,4 +98,8 @@ zip -r vendor.zip vendor/
      
 ```
 
+Reference Links: 
+- [https://github.com/aws-samples/php-examples-for-aws-lambda/blob/master/0.1-SimplePhpFunction/bootstrap](https://github.com/aws-samples/php-examples-for-aws-lambda/blob/master/0.1-SimplePhpFunction/bootstrap)
+- [https://aws.amazon.com/blogs/apn/aws-lambda-custom-runtime-for-php-a-practical-example/](https://aws.amazon.com/blogs/apn/aws-lambda-custom-runtime-for-php-a-practical-example/)
+- [https://www.phpinternalsbook.com/php7/build_system/building_php.html](https://www.phpinternalsbook.com/php7/build_system/building_php.html)
 
